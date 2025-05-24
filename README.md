@@ -1,5 +1,5 @@
 ## Home Assistant Barcode Scanner
-EspHome based barcode scanner for Home Assistant. No soldering or 3D printing required! Just put together, adopt in ESPHome builder using the provided .yaml file. Do nmot forther to also upload the custom component to esphome folder in your config/.
+ESPHome based barcode scanner for Home Assistant. No soldering or 3D printing required! Just put together, adopt in ESPHome builder using the provided .yaml file. Do nmot forther to also upload the custom component to esphome folder in your config/.
 
 ## Components
 
